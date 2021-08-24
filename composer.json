@@ -1,5 +1,5 @@
 {
-    "name": "noj-language-services/configurations",
+    "name": "noj-language-service/configurations",
     "description": "Standalone Configurations for Language Services of NOJ.",
     "type": "noj-language-services",
     "license": "MIT",
